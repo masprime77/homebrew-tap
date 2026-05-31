@@ -11,9 +11,9 @@ class SemesterPlanner < Formula
   desc "Minimal semester planner desktop app (Electron)"
   homepage "https://github.com/masprime77/semester-planner"
 
-  version "VERSION_PLACEHOLDER"
-  url "URL_PLACEHOLDER"
-  sha256 "SHA256_PLACEHOLDER"
+  version "1.0.3"
+  url "https://github.com/masprime77/semester-planner/releases/download/v1.0.3/Semester-Planner-1.0.3-arm64-mac.zip"
+  sha256 "5dbc71cd5f7bedd92a465aa4b406c11884b29bdac5f07b9dfd06f817648e91f0"
 
   def install
     # The release .zip contains "Semester Planner.app". Copy the bundle into the
