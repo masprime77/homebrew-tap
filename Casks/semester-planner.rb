@@ -1,6 +1,6 @@
 cask "semester-planner" do
-  version "1.0.4"
-  sha256 "01c761446b45c5157547495e77a8116b1033c4c71385130ba45d6a99d6dc2e40"
+  version "1.1.0"
+  sha256 "3689c6d4d516acf2107cf631ce5fe0bf3c14955961acc60cdf0b311897ffb429"
 
   url "https://github.com/masprime77/semester-planner/releases/download/v#{version}/Semester-Planner-#{version}-arm64-mac.zip",
       verified: "github.com/masprime77/semester-planner/"
