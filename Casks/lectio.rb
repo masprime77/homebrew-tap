@@ -1,6 +1,6 @@
 cask "lectio" do
-  version "1.6.0"
-  sha256 "efca8931a542475159bf1f204336a00d6d9a69bca8e3c90d43e985cc7c6a79d8"
+  version "1.6.2"
+  sha256 "18b789f0c8e517c92ed11960a75ac801a30ae668979fb82398ea9c68263d3667"
 
   url "https://github.com/masprime77/lectio/releases/download/v#{version}/Lectio-#{version}-arm64-mac.zip",
       verified: "github.com/masprime77/lectio/"
